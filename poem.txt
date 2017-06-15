@@ -8,4 +8,4 @@ Green
 Yellow
 Red
 
-These is the color of the rainbow.
+These are the colors of the rainbow.
